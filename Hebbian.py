@@ -17,6 +17,7 @@ class Hebb :
         w2n=0
         w3n=0
         bn=0
+        
         for i in range(0,4) :
             w1n = w1+x1[i]*y[i]
             w2n = w2+x2[i]*y[i]
