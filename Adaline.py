@@ -1,3 +1,4 @@
+#Adaline
 class Adaline:
 	def __init__(self, n, rate=0.2, thresh=0.5):
 		self.count = n+1
