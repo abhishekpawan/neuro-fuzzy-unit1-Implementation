@@ -1,3 +1,4 @@
+#Weight and Bias using Perceptron Algorithm 
 import numpy as np
 class PerceptronClass:
   def __init__(self, learning_rate=0.01, num_iters=1000):
